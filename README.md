@@ -16,7 +16,7 @@ A simulated secure bank office network featuring:
 - Inter-VLAN routing with access control
 - SSH secured management access
 - Ping tests to verify connectivity
-- 
+  
 ### [🏪 Tech Sales Branch with WiFi]()
 A tech branch store with wired and wireless infrastructure:
 - VLANs for staff and visitors
@@ -34,4 +34,4 @@ A tech branch store with wired and wireless infrastructure:
 - SSH, ACLs, WPA2
 - Basic network design & troubleshooting
 
-**-----------------------------------------------------------------------**
+
