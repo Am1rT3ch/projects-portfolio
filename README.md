@@ -8,7 +8,7 @@ These were built as part of my CCNA-level self-learning journey.
 
 ## Projects:
 
-### [🏦 Secure Bank Network]()
+### [🏦 Secure Bank Network](https://github.com/Am1rT3ch/Secure-Bank-Network)
 A simulated secure bank office network featuring:
 - VLAN segmentation for employees and guests
 - DHCP server for dynamic IP addressing
@@ -17,7 +17,7 @@ A simulated secure bank office network featuring:
 - SSH secured management access
 - Ping tests to verify connectivity
   
-### [🏪 Tech Sales Branch with WiFi]()
+### [🏪 Tech Sales Branch with WiFi](https://github.com/Am1rT3ch/Tech-Sales-Branch-with-secure-WiFi)
 A tech branch store with wired and wireless infrastructure:
 - VLANs for staff and visitors
 - DHCP for automatic IP allocation
