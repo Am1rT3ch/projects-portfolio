@@ -14,8 +14,9 @@ A simulated secure bank office network featuring:
 - DHCP server for dynamic IP addressing
 - Router-on-a-Stick (ROAS) configuration
 - Inter-VLAN routing with access control
-- SSH secured management access
 - Ping tests to verify connectivity
+- ACLs for traffic control and enhanced security
+- Use of the PORT-SECURITY system
   
 ### [🏪 Tech Sales Branch with WiFi](https://github.com/Am1rT3ch/Tech-Sales-Branch-with-secure-WiFi)
 A tech branch store with wired and wireless infrastructure:
