@@ -18,7 +18,7 @@ A simulated secure bank office network featuring:
 - ACLs for traffic control and enhanced security
 - Use of the PORT-SECURITY system
   
-### [🏪 Tech Sales Branch with WiFi](https://github.com/Am1rT3ch/Tech-Sales-Branch-with-secure-WiFi)
+### [🏪 2 Tech locations Sales Branch & dev center with WiFi](https://github.com/Am1rT3ch/Tech-Sales-Branch-with-secure-WiFi)
 A tech branch store and development location with wired and wireless infrastructure:
 - VLANs for staff and visitors
 - DHCP for automatic IP allocation
