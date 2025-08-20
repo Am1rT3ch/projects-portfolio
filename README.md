@@ -19,20 +19,22 @@ A simulated secure bank office network featuring:
 - Use of the PORT-SECURITY system
   
 ### [🏪 Tech Sales Branch with WiFi](https://github.com/Am1rT3ch/Tech-Sales-Branch-with-secure-WiFi)
-A tech branch store with wired and wireless infrastructure:
+A tech branch store and development location with wired and wireless infrastructure:
 - VLANs for staff and visitors
 - DHCP for automatic IP allocation
 - ROAS for VLAN communication
-- WPA2-secured wireless network for customers
-- SSH access for remote network management
+- wifi, wireless network for customers
+- Use of the PORT-SECURITY system
 - ACLs for traffic control and enhanced security
+- OSPF protocol for connection between the 2 locations
 
 ## 🛠️ Tools & Technologies
 
 - Cisco Packet Tracer
 - VLANs, DHCP, ROAS
 - Switch & Router configuration
-- SSH, ACLs, WPA2
+- OSPF routing protocol.
+- ACLs & port security
 - Basic network design & troubleshooting
 
 
